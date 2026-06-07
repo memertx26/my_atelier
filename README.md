@@ -1,4 +1,3 @@
-[my atelier_html.html](https://github.com/user-attachments/files/28687276/my.atelier_html.html)
 <!DOCTYPE html>
 <html lang="ru">
 <head>
